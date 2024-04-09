@@ -1,0 +1,15 @@
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\bin\Debug\netstandard2.0\UsoApiTurismo.deps.json
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\bin\Debug\netstandard2.0\UsoApiTurismo.dll
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\bin\Debug\netstandard2.0\ref\UsoApiTurismo.dll
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\bin\Debug\netstandard2.0\UsoApiTurismo.pdb
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.AssemblyInfoInputs.cache
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.AssemblyInfo.cs
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.dll
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\refint\UsoApiTurismo.dll
+C:\Users\LAPTOP-MIRNA-R\source\repos\UsoApiTurismo\UsoApiTurismo\UsoApiTurismo\obj\Debug\netstandard2.0\UsoApiTurismo.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/blKcDvX6hnskw5gWrnT27JHySDGop7EO4HO/mR/uJJUy/4qD/p0RMxkYnXX50cy9FsQvRGedjgkxnh1SVapA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAPTOP-MIRNA-R\\source\\repos\\UsoApiTurismo\\UsoApiTurismo\\UsoApiTurismo.iOS\\UsoApiTurismo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP-MIRNA-R\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\LAPTOP-MIRNA-R\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP-MIRNA-R\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP-MIRNA-R\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
